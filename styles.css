@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+div{
+	border:solid 1px gray;
+	padding-left:10px;
+	padding-top:25px;
+}
+div p{
+	padding-right:10px;
+	text-align:end;
+}
+.x{
+	border:0;
+}
